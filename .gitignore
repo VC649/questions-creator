@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+
+# Log files
+*.log
+
+# BlueJ, NetBeans, IntelliJ, Eclipse
+*.iml
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build directories
+/bin/
+/build/
+/target/
+
+# Maven / Gradle
+.mvn/
+.gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
